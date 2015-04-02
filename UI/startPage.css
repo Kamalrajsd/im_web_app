@@ -1,0 +1,36 @@
+input.butPink {
+    width: 125px;
+    height: 125px;
+    background-color: #FF1744;
+	
+    border:  1px #000;
+    border-radius: 50%;
+    font-family: Viner Hand ITC;
+font-size:25px;
+	color: white;
+}
+input.butBlue {
+    width: 125px;
+    height: 125px;
+    background-color: #00C853;
+    border:  1px #000;
+    border-radius: 50%;
+    font-family: Viner Hand ITC;
+	font-size:25px;
+	color: white;
+	
+}
+div.cent{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+}
+body
+{
+	background-color:#37474F;
+	font-family: Viner Hand ITC;
+	background-image: url("test_img.jpg");
+	color: #006064}

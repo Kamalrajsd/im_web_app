@@ -1,0 +1,150 @@
+body
+{
+	background-color:#37474F;
+	background-image: url("test_img.jpg");
+	background-size:cover;
+	font-family: Viner Hand ITC;
+	color: black}
+div.mess{
+    	position: absolute;
+	    height: 530px;
+	    width: 700px;
+	    margin: 70px 0 0 580px;
+	background-color:white;
+	display: flex;
+	border-radius:10%;
+	box-shadow: 10px 10px 5px #888888;
+}
+div.profile{
+    	position: absolute;
+	    height:150px;
+	    width: 400px;
+	    margin: 70px 0 0 150px;
+	background-color:white;
+	display: flex;
+	border-radius:10%;
+	box-shadow: 10px 10px 5px #888888;
+}
+div.ppl_list{
+
+    	position: absolute;
+	    height:350px;
+	    width: 400px;
+	    margin: 250px 0 0 150px;
+	background-color:white;
+	display: flex;
+	border-radius:10%;
+	box-shadow: 10px 10px 5px #888888;
+}
+div.topleft
+{
+	margin: 45px 0 0 40px;
+	float: left;
+	height: 40px;
+}
+table.cent
+{
+	margin: 125px 0 0 -100px;
+}
+.tb
+{
+	font-family: Viner Hand ITC;
+	font-size: 15px;
+}
+input.butC {
+    	width: 100px;
+   	 height: 100px;
+    	background-color: #FF1744;
+    	border:  1px #000;
+  	border-radius: 50%;
+	font-family: Viner Hand ITC;
+	font-size:15px;
+	color: white;
+	align: center;
+	margin:20px 0 0 50px;
+}
+input.butSend {
+    	width: 60px;
+   	 height: 60px;
+    	background-color: #FF6D00;
+    	border:  1px #000;
+  	border-radius: 50%;
+	font-family: Viner Hand ITC;
+	font-size:15px;
+	color: white;
+	align: center;
+	margin:0px 0 0 100px;
+}
+input.butLogout {
+    	width: 60px;
+   	 height: 60px;
+    	background-color:#C62828;
+    	border:  1px #000;
+  	border-radius: 50%;
+	font-family: Viner Hand ITC;
+	font-size:15px;
+	color: white;
+	align: center;
+	margin:-103px 0 0 570px;
+}
+div.botleft
+{
+	border: solid 1px;
+	margin: 400px 0  0 40px;
+	height: 30px;
+	float: left;
+}
+
+.tb
+{
+	font-family: Viner Hand ITC;
+	font-size: 15px;
+	border-radius: 40%;
+}
+input.butBlue {
+    width: 50px;
+    height: 50px;
+    background-color: #00BCD4;
+    border:  1px #000;
+    border-radius: 50%;
+    font-family: Viner Hand ITC;
+	font-size:25px;
+	color: white;
+	
+}
+.picround
+{
+	border-radius:50%;
+}
+.picround1
+{
+	border-radius:50%;
+	margin: 0 0 0 10px;
+}
+div.chatwith
+{
+	margin:10px 0 0 20px; 
+	font-size:30px;
+	height:70px;
+	width: 95%;
+	float: left;
+	
+}
+div.chathis
+{
+	margin:95px 0 0 -668px;
+	height:60%;
+	width: 95%;
+	float:left;
+	overflow: scroll;
+	border-style: solid;
+   	border-color:#9C27B0;
+	background-color:#616161;
+}
+div.message
+{
+	margin: 430px 0 0 -668px;
+	height: 80px;
+	width: 95%;
+	flaot:left;
+}

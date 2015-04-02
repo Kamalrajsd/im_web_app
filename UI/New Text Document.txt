@@ -1,0 +1,3 @@
+problems
+ajax not getting executed
+onClick is not working for button and radio button

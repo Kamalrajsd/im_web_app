@@ -1,0 +1,27 @@
+table.cent1
+{
+	margin: 125px 0 0 -200px;
+}
+input.butC1 {
+    	width: 100px;
+   	 height: 100px;
+    	background-color: #CDDC39;
+    	border:  1px #000;
+  	border-radius: 50%;
+	font-family: Viner Hand ITC;
+	font-size:15px;
+	color: black;
+	align: center;
+	margin:20px 0 0 -50px;
+}
+div.cent1{
+    	position: absolute;
+	    height: 580px;
+	    width: 450px;
+	    margin: -280px 0 0 -250px;
+	    top: 50%;
+	    left: 50%;
+	background-color:white;
+	display: flex;
+	box-shadow: 10px 10px 5px #888888;
+}
